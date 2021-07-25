@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Tundelynn's African Adventures</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta name="Description" content="about rhinos" />
+
+    <style>
+      a {
+        text-align: right;
+        float: right;
+        margin: 20px;
+      }
+    </style>
+    <a href="https://www.youtube.com/watch?v=R02QrS2aCDM" target="_blank"
+      >More about rhinos</a
+    >
+    <a href="#ok">Link to my experience with rhinos</a>
+
+    <a href="https://www.savetherhino.org/get-involved/donate/"
+      >Donate to Save The Rhino
+    </a>
+    <img id="hello" src="images/th (1).jpg" alt="A rhino" />
+    <h2>Rhinos &copy;</h2>
+
+    <style>
+      strong {
+        color: red;
+        font-style: unset;
+      }
+    </style>
+    <style>
+      img {
+        width: 500px;
+        border-radius: 10px;
+        float: left;
+        margin-right: 10px;
+        height: 300px;
+      }
+    </style>
+    <p>
+      A rhinoceros ( from Greek rhinokerōs 'nose-horned', from rhis 'nose', and
+      keras 'horn'), commonly abbreviated to rhino, is a member of any of the
+      five extant species of odd-toed ungulates in the family. In total, there
+      are about <strong>30,000 rhinos</strong> in the world.The rhinoceros is a
+      herbivore. Its favourite food is plants, branches and bushes (if it is a
+      browser species), or grass (if it is a grazer species). Rhinoceroses have
+      a large horn on the nose. Their horns are not like those of other horned
+      mammals: the rhinoceros' horn is made of keratin packed together very
+      tightly. The rhinoceroses can weigh up to 2,000 kilograms (4,400 lb) and
+      be up to 375 centimetres (12.30 ft) tall.
+    </p>
+    <h2>Where are rhinos found?</h2>
+    <p>
+      Rhinos are found in both Asia and Africa. Historically they were also
+      found in Europe but were wiped out by climate change and most notably the
+      influence of man
+    </p>
+    <h2 id="subspecies">What subspecies of rhinos exist?</h2>
+    <p>
+      There are two subspecies of white rhinoceros: the southern white
+      rhinoceros (Ceratotherium simum simum) and the northern white
+      rhinoceros(Ceratotherium simum cottoni). As of 2013, the southern
+      subspecies has a wild population of 20,405—making them the most abundant
+      rhino subspecies in the world. However, the northern subspecies is
+      critically endangered, with all that is known to remain being two captive
+      females. There is no conclusive explanation of the name "white rhinoceros"
+    </p>
+    <h2>Are rhinos endangered?</h2>
+    <p>
+      Rhino are a critically endangered species. There are less than 30,000
+      rhino living in the wild today. At the start of the 20th century, there
+      were over 500,000. Human activity has caused this dramatic decline in
+      rhino numbers. Initially numbers dropped due to hunting, but today the
+      main threats to rhino are poaching and habitat loss.Three species of
+      rhino—black, Javan, and Sumatran—are critically endangered. Today, a small
+      population of Javan rhinos is found in only one national park on the
+      northern tip of the Indonesian island of Java. A mainland subspecies of
+      the Javan rhino was declared extinct in Vietnam in 2011.The majority
+      (98.8%) of the southern white rhinos occur in just four countries: South
+      Africa, Namibia, Zimbabwe, and Kenya. Southern white rhinos were thought
+      to be extinct in the late 19th century, but in 1895 a small population of
+      less than 100 individuals was discovered in Kwazulu-Natal, South Africa.
+      After more than a century of protection and management, they are now
+      classified as Near Threatened and 19,600 – 21,000 animals exist in
+      protected areas and private game reserves. They are the only of the five
+      rhino species that are not endangered.
+    </p>
+    <h2 id="ok">My experience with rhinos</h2>
+    <p>
+      When I went to the Nigerian safari, rhinos were one of the first animals I
+      saw. They curiously walked towards our car and stared intently whilst
+      remaining precariously still. This allowed us to take some amazing photos
+      like the ones you can see below. The tour guide told us that rhinos were
+      actually blind , which was quite an interesting fact which I can assure
+      you very little people know. Another thing he told us is that rhinos will
+      attack anything they percieve as a threat which can include things like
+      termite mounds and twigs! We then got to feed the rhinos but had to be
+      careful to not agitate the 2 ton beast. After feeding it , we got to watch
+      the guide feed them himself and lets just say he did a way better job than
+      us.He attracted a multitude of rhinos who came sprinting at the mere
+      prescence of food and began devouring as soon as they layed their mouth on
+      the treats. The rhinos were a great part of the safari experience and
+      suprisingly did not display aggressive behaviour, juxtaposing how they are
+      presented in the media . Legendary hunter Babatunde is said to have killed
+      over 3000 rhinos and was a major part of the rhinos "Critically
+      endangered" status. In order to remove that status, we must ensure these
+      animals thrive in poacher-free environments. This is why I have attached a
+      link for you to donate to save the rhinos, to help provide these
+      magnificent creates with a safer , more sustainable future.
+    </p>
+    <img
+      src="images/geran-de-klerk-KsMD_tAdjg0-unsplash (1).jpg"
+      alt="A rhino"
+    />
+    <img src="images/redcharlie-xtvo0ffGKlI-unsplash.jpg" alt="More rhinos" />
+    <img src="images/david-clode-92kTb8_9iBA-unsplash.jpg" />
+    <img src="images/lucas-alexander-LOlMe8HfofI-unsplash.jpg" />
+  </head>
+
+  <body bgcolor="yellow"></body>
+</html>
